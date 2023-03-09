@@ -1,12 +1,10 @@
 package Rikkei.academy;
 
 public class Shape {
-    private String color;
-    private boolean filled;
+    private String color = "green";
+    private boolean filled = true;
 
     public Shape() {
-        this.color = "green";
-        this.filled = true;
     }
 
     public Shape(String color, boolean filled) {

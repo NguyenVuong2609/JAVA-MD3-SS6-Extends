@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="745065b9-0775-4e0a-be45-6f9e1bd2e6bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_CircleCylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_CircleCylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_CircleCylinder/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Point2d_3d/Point2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Point2d_3d/Point3d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Point2d_3d/TestPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT3_PointMoveablePoint/MoveablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT3_PointMoveablePoint/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT3_PointMoveablePoint/TestMovePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT4_Triangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT4_Triangle/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rikkei/academy/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/academy/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/academy/BT3_PointMoveablePoint/MoveablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT3_PointMoveablePoint/MoveablePoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678089598224</updated>
       <workItem from="1678089599708" duration="2663000" />
-      <workItem from="1678329418419" duration="7248000" />
+      <workItem from="1678329418419" duration="8084000" />
     </task>
     <servers />
   </component>
